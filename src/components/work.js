@@ -13,9 +13,10 @@ class Work extends Component {
                 {data.projects.map((project)=>(
                     <Project key={project.id}
                              title = {project.title}
-                             service = {project.service}
+                             github = {project.github}
                              imageSrc = {project.imageSrc}
                              url={project.url}
+                             demo = {project.demo}
                      ></Project>
                 ))}
         </div>

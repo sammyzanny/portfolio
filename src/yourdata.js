@@ -26,25 +26,28 @@ export default
            {
             id: 1,//DO NOT CHANGE THIS (Please)😅
             title:'Animal Swapping', //Project Title - Add Your Project Title Here
-             service:'Web App', // Add Your Service Type Here
+             github:'https://github.com/sammyzanny/animal-swapping-frontend', // Add Your Service Type Here
             //Project Image - Add Your Project Image Here
              imageSrc:"https://github.com/sammyzanny/animal-swapping-backend/blob/master/Screen%20Recording%202020-05-29%20at%203.41.35%20AM.gif?raw=true",
              //Project URL - Add Your Project Url Here
-             url:'https://animal-swapping.herokuapp.com/'
+             url:'https://animal-swapping.herokuapp.com/',
+             demo: "https://www.youtube.com/watch?v=Gc27jCrZiR4"
             },
             {
                 id: 2,//DO NOT CHANGE THIS (Please)😅
                 title: 'In Case of Reign',
-                service: 'Web App',
+                github: 'https://github.com/sammyzanny/in-case-of-reign-frontend',
                 imageSrc: icar,
-                url: 'https://in-case-of-reign.herokuapp.com/'
+                url: 'https://in-case-of-reign.herokuapp.com/',
+                demo: "https://www.youtube.com/watch?v=FMQVXkNX-xU"
             },
             { 
                 id: 3,//DO NOT CHANGE THIS (Please)😅
                 title: 'Orderli',
-                service: 'Web App',
+                github: 'https://github.com/sammyzanny/restaurant-pos-mod2-group-project',
                 imageSrc: orderli,
-                url: 'https://github.com/sammyzanny/restaurant-pos-mod2-group-project'
+                url: 'https://github.com/sammyzanny/restaurant-pos-mod2-group-project',
+                demo: "https://www.youtube.com/watch?v=MVSDirXckN0"
             }
 
                     /*
